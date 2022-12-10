@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pasha Andreyanov"
+title                    : "Pashas website"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Pasha Andreyanov"
   avatar           : "facebook.jpeg"
   bio              : "Assistant professor at HSE, National Research University, Moscow"
-  location         : "Moscow"
+  location         : "https://www.hse.ru/en/org/persons/306189972"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iWDktFsAAAAJ"
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "pandreyanov"
+  github           : "https://github.com/pandreyanov/"
   # google_plus      :
   # keybase          :
   # instagram        :
