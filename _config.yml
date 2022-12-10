@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Pasha Andreyanov"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+# name                     : &name "Your Name"
+# description              : &description "personal description"
 url                      : https://pandreyanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pandreyanov/pandreyanov.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pasha Andreyanov"
   avatar           : "facebook.jpeg"
-  bio              : "Assistant professor"
-  location         : "HSE, Moscow"
+  bio              : "Assistant professor at HSE, National Research University, Moscow"
+  location         : "Moscow"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iWDktFsAAAAJ"
