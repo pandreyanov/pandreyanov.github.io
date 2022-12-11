@@ -15,7 +15,7 @@ url                      : https://pandreyanov.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pandreyanov/pandreyanov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true #, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pasha"
   avatar           : "facebook.jpeg"
-  bio              : "Assistant professor at the department of Theoretical Economics, Higher School of Economics, Moscow"
+  bio              : "Assistant professor at Higher School of Economics, Moscow"
   location         : "Moscow"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
