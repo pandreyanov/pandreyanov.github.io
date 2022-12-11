@@ -22,8 +22,8 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
 ## I have several working papers
 
-- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park
-- [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi
+- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at EWMES 2022 (Berlin)
+- [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi, presented at EARIE 2022 (Vienna) and EEA-ESEM 2022 (Milan).
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 
 ## My other work in progress
