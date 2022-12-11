@@ -15,14 +15,14 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 ## I have several published papers
 
 - [Secret Reserve Prices by Uninformed Sellers](files/SecretReservePrices.pdf), QE 2022, with El Hadi Caoui
-- [Robust Mechanism Design of Exchange](RobustMechanismExchange.pdf), RESTUD 2020, with T. Sadzik
-- [Mechanism Choice in Scoring Auctions](MechanismChoiceScoring.pdf), my dissertation at UCLA, see [codes](UCLAThesis.zip)
+- [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2020, with T. Sadzik
+- [Mechanism Choice in Scoring Auctions](files/MechanismChoiceScoring.pdf), my dissertation at UCLA, see [codes](files/UCLAThesis.zip)
 
 ## I have several (not published) papers
 
 - [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park
 - [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi
-- [Optimal Robust Public Goods](OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
+- [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 
 ## My other work in progress
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
