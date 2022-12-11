@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at [HSE](https://www.hse.ru/en/org/persons/306189972), Moscow. I studied math at Moscow State University, then economics at [NES](https://www.nes.ru/) and [UCLA](https://www.ucla.edu/), and most recently, data science at [YSDA](https://academy.yandex.com/dataschool/).
+I am an assistant professor at Higher School of Economics Moscow (HSE). I studied math at Moscow State University (MSU), then economics at New Economic School (NES) and University of California, Los Angeles (UCLA), and most recently, data science and programming at Yandex School of Data Analysis (YSDA).
 
 I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. In my spare time I dabble in machine learning and python.
 
