@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "About me"
+title: "About me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
-I am an [assistant professor at HSE](https://www.hse.ru/en/org/persons/306189972), Moscow. I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. In my spare time I dabble in machine learning and python.
+I am an assistant professor at [HSE](https://www.hse.ru/en/org/persons/306189972), Moscow. I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. In my spare time I dabble in machine learning and python.
 
 My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
