@@ -10,7 +10,7 @@ venue: 'Journal 1'
 ---
 
 Long description of the paper 
-$$Sample latex$$
+$$x^2 + y^2 = 2$$
 
 <!-- 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)

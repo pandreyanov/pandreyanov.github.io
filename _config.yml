@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pashas website"
+title                    : "Pasha's website"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pasha Andreyanov"
+  name             : "Pasha"
   avatar           : "facebook.jpeg"
-  bio              : "Assistant professor at HSE, National Research University, Moscow"
+  bio              : "Assistant professor at the department of Theoretical Economics, Higher School of Economics, Moscow"
   location         : "Moscow"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
