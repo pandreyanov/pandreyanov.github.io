@@ -16,6 +16,7 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
 - [Secret Reserve Prices by Uninformed Sellers](files/SecretReservePrices.pdf), QE 2022, with El Hadi Caoui
 - [Robust Mechanism Design of Exchange](RobustMechanismExchange.pdf), RESTUD 2020, with T. Sadzik
+- [Mechanism Choice in Scoring Auctions](MechanismChoiceScoring.pdf), my dissertation at UCLA, see [codes](UCLAThesis.zip)
 
 ## I have several (not published) papers
 
@@ -27,4 +28,5 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
 - Past Performance and Procurement Outcomes, with F. Decarolis, R. Pacini and G. Spagnolo
 - Scoring and Favoritism, with A. Suzdaltsev and I. Krasikov
+- 21-century Media Capture, with E. Abramov
 
