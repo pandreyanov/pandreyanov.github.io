@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor at Higher School of Economics Moscow (HSE). I studied math at Moscow State University (MSU), then economics at New Economic School (NES) and University of California, Los Angeles (UCLA), and most recently, data science and programming at Yandex School of Data Analysis (YSDA).
 
-I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. My dissertation [Mechanism Choice in Scoring Auctions](files/MechanismChoiceScoring.pdf) at UCLA brings attention to the **scoring auction** - an important but understudied auction format, see also [codes and data](files/UCLAThesis.zip). In my spare time I dabble in machine learning and python.
+I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. My dissertation [Mechanism Choice in Scoring Auctions](files/MechanismChoiceScoring.pdf) at UCLA brings attention to the trade-off between quality and cost in scoring auction - an important but understudied auction format for procurement, see also [codes and data](files/UCLAThesis.zip). In my spare time I dabble in machine learning and python.
 
 My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
@@ -18,7 +18,6 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
 - [Secret Reserve Prices by Uninformed Sellers](files/SecretReservePrices.pdf), QE 2022, with El Hadi Caoui
 - [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2020, with T. Sadzik
-- 
 
 ## I have several working papers
 
