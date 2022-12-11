@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: archive
 title: "My presentations"
 permalink: /talks/
 author_profile: true
