@@ -17,7 +17,7 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 ## I have several published papers
 
 - [Secret Reserve Prices by Uninformed Sellers](files/SecretReservePrices.pdf), QE 2022, with El Hadi Caoui
-- [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2020, with T. Sadzik
+- [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2021, with T. Sadzik
 
 ## I have several working papers
 
