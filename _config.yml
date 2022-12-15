@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pasha Andreyanov"
+title                    : "pandreyanov.github.io"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pasha"
+  name             : "Pasha Andreyanov"
   avatar           : "facebook.jpeg"
   bio              : "Assistant professor at Higher School of Economics, Moscow"
   location         : "Moscow"
