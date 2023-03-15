@@ -20,14 +20,13 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2021, with T. Sadzik
 
 ## I have several working papers
-
+- [Past Performance and Procurement Outcomes](files/PastPerformance.pdf), with F. Decarolis, R. Pacini and G. Spagnolo
 - [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf)
 - [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi, presented at [EARIE 2022 (Vienna)](files/slides_EARIE2022.pdf) and EEA-ESEM 2022 (Milan).
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 
 ## My other work in progress
+- Scoring and Favoritism in Procurement, with A. Suzdaltsev and I. Krasikov
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
-- Past Performance and Procurement Outcomes, with F. Decarolis, R. Pacini and G. Spagnolo
-- Scoring and Favoritism, with A. Suzdaltsev and I. Krasikov
 - 21-century Media Capture, with E. Abramov
 
