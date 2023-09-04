@@ -26,7 +26,7 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 
 ## My other work in progress
-- Scoring and Favoritism in Procurement, with A. Suzdaltsev and I. Krasikov, presented at [EARIE (Barcelona) 2023 by Alex](files/slides_EARIE2023_Alex.pdf)
+- Scoring and Favoritism in Procurement, with A. Suzdaltsev and I. Krasikov, presented at [EARIE 2023 (Rome)by Alex](files/slides_EARIE2023_Alex.pdf)
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
 - 21-century Media Capture, with E. Abramov
 
