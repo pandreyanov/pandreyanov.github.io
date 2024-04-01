@@ -19,15 +19,14 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - [Secret Reserve Prices by Uninformed Sellers](files/SecretReservePrices.pdf), QE 2022, with El Hadi Caoui
 - [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2021, with T. Sadzik
 
-## I have several working papers
-- Scoring and Favoritism in Optimal Procurement Design, with A. Suzdaltsev and I. Krasikov, presented at [EARIE 2023 (Rome) by Alex](files/slides_EARIE2023_Alex.pdf)
+## My R&Rs
+- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf), reject-and-resubmit at AER 2024
+
+## My other papers
 - [Past Performance and Procurement Outcomes](files/PastPerformance.pdf), with F. Decarolis, R. Pacini and G. Spagnolo, presented at [Oligo 2023 (Padova)](files/slides_OLIGO2023.pdf), [EARIE 2023 (Rome)](files/slides_EARIE2023.pdf)
-- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf)
 - [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi, presented at [EARIE 2022 (Vienna)](files/slides_EARIE2022.pdf) and EEA 2022 (Milan).
+- Scoring and Favoritism in Optimal Procurement Design, with A. Suzdaltsev and I. Krasikov, presented at [EARIE 2023 (Rome) by Alex](files/slides_EARIE2023_Alex.pdf)
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
-
-## My other work in progress
-
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
 - 21-century Media Capture, with E. Abramov
 
