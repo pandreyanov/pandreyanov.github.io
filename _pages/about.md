@@ -20,7 +20,7 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2021, with T. Sadzik
 
 ## My R&Rs
-- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf), reject-and-resubmit at AER 2024
+- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf), [EARIE 2024 (Amsterdam)](files/slides_EARIE2024.pdf), reject-and-resubmit at AER 2024
 
 ## Submitted or between submissions
 - [Past Performance and Procurement Outcomes](files/PastPerformance.pdf), with F. Decarolis, R. Pacini and G. Spagnolo, presented at [Oligo 2023 (Padova)](files/slides_OLIGO2023.pdf), [EARIE 2023 (Rome)](files/slides_EARIE2023.pdf), submitted to AER
