@@ -20,14 +20,14 @@ My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 - [Robust Mechanism Design of Exchange](files/RobustMechanismExchange.pdf), RESTUD 2021, with T. Sadzik
 
 ## My R&Rs
-- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf), [EARIE 2024 (Amsterdam)](files/slides_EARIE2024.pdf), reject-and-resubmit at AER 2024
+- [Optimal Robust Double Auctions](files/OptimalRobustDoubleAuctions.pdf), with T. Sadzik and J. Park, presented at [EWMES 2022 (Berlin)](files/slides_EWMES2022.pdf), [EEA 2023 (Barcelona)](files/slides_EEA2023.pdf), [EARIE 2024 (Amsterdam)](files/slides_EARIE2024.pdf), WC 2025 (Seoul), reject-and-resubmit at AER 2024
 
 ## Submitted or between submissions
 - [Past Performance and Procurement Outcomes](files/PastPerformance.pdf), with F. Decarolis, R. Pacini and G. Spagnolo, presented at [Oligo 2023 (Padova)](files/slides_OLIGO2023.pdf), [EARIE 2023 (Rome)](files/slides_EARIE2023.pdf)
 - [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi, presented at [EARIE 2022 (Vienna)](files/slides_EARIE2022.pdf) and EEA 2022 (Milan), at [EEA 2024 (Rotterdam)](files/slides_EEA2024.pdf)
 
 ## My other projects
-- Auctions after Actions, with A. Suzdaltsev and I. Krasikov
+- Auctions after Actions, with A. Suzdaltsev and I. Krasikov, presented at EEA 2024 (Mallorka), EARIE 2025 (Valencia)
 - [Scoring and Favoritism in Optimal Procurement Design](files/ScoringАndFavoritism.pdf), with A. Suzdaltsev and I. Krasikov, presented at [EARIE 2023 (Rome) by Alex](files/slides_EARIE2023_Alex.pdf)
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
