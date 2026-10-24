@@ -12,7 +12,7 @@ I studied math at Moscow State University (MSU), then economics at New Economic 
 
 I work primarily in the field of non-standard auction design such as: procurement, double and scoring auctions; and adjacent topics of collusion and estimation. My dissertation [Mechanism Choice in Scoring Auctions](files/MechanismChoiceScoring.pdf) at UCLA brings attention to the trade-off between quality and cost in scoring auction - an important but understudied auction format for procurement, see also [codes and data](files/UCLAThesis.zip). In my spare time I dabble in machine learning and python.
 
-My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
+#My cv is [here](files/CV.pdf), my email is pandreyanov at gmail dot com.
 
 ## I have several published papers
 
