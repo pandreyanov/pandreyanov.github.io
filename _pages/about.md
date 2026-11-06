@@ -27,9 +27,11 @@ I work primarily in the field of non-standard auction design such as: procuremen
 - [Nonparametric inference on counterfactuals in first-price auctions](files/CounterfactualsFPA.pdf), with G. Franguridi, presented at [EARIE 2022 (Vienna)](files/slides_EARIE2022.pdf) and EEA 2022 (Milan), at [EEA 2024 (Rotterdam)](files/slides_EEA2024.pdf)
 
 ## My other projects
+- More Quality Criteria, Fewer Bidders in Scoring Auctions, with Andrea Bafundi,  Riccardo Camboni, Giancarlo Spagnolo Paola Valbonesi, presented at [ASSET](files/slides_ASSET2026.pdf)
 - Auctions after Actions, with A. Suzdaltsev and I. Krasikov, presented at EEA 2024 (Mallorka), EARIE 2025 (Valencia)
 - [Scoring and Favoritism in Optimal Procurement Design](files/ScoringАndFavoritism.pdf), with A. Suzdaltsev and I. Krasikov, presented at [EARIE 2023 (Rome) by Alex](files/slides_EARIE2023_Alex.pdf)
 - [Optimal Robust Public Goods](files/OptimalRobustPublicGoods.pdf), with B. Jeong and J. Copic
 - Detecting Auctioneer Corruption, with A. Davidson, Uber and V. Korovkin, Cerge-EI
 - 21-century Media Capture, with E. Abramov
+
 
